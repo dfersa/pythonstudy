@@ -8,3 +8,4 @@ while True:
 		break
 else :#可加可不加
 	print("error")
+	# ???
